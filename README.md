@@ -1,6 +1,6 @@
-# flutter_complete_guide
+# Flutter Quiz App
 
-A new Flutter project.
+This is my first Dart/Flutter project.
 
 ## Getting Started
 
